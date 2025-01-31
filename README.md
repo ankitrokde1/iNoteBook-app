@@ -16,6 +16,13 @@ It allows users to create, edit, delete, and manage notes securely.
 - **Database:** MongoDB  
 
 ## Installation
-1. Clone the repository:  
-2. Install dependencies:  
-3. Start the server:  
+1. Clone the repository:
+    git clone https://github.com/your-username/your-repo.git
+
+   
+2. Install dependencies:
+   cd your-repo npm install
+
+   
+3. Start the server:
+   npm run both
