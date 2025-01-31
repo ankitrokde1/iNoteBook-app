@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Morning Routine",
+    "description": "Wake up early and meditate for 10 minutes",
+    "tag": "personal"
+  },
+  {
+    "title": "Work Task",
+    "description": "Finish the project presentation",
+    "tag": "work"
+  },
+  {
+    "title": "Exercise Plan",
+    "description": "Go for a 30-minute run",
+    "tag": "health"
+  },
+  {
+    "title": "Shopping List",
+    "description": "Buy groceries: milk, bread, eggs, fruits",
+    "tag": "personal"
+  },
+  {
+    "title": "Learn Node.js",
+    "description": "Complete the Node.js tutorial on freeCodeCamp",
+    "tag": "education"
+  },
+  {
+    "title": "Call Mom",
+    "description": "Have a 15-minute call with mom",
+    "tag": "personal"
+  },
+  {
+    "title": "Team Meeting",
+    "description": "Attend the weekly team sync-up call at 3 PM",
+    "tag": "work"
+  },
+  {
+    "title": "Read a Book",
+    "description": "Finish reading 'Atomic Habits'",
+    "tag": "leisure"
+  },
+  {
+    "title": "Dinner Reservation",
+    "description": "Make a reservation at the Italian restaurant for 7 PM",
+    "tag": "personal"
+  },
+  {
+    "title": "Weekly Budget",
+    "description": "Plan the weekly budget and review expenses",
+    "tag": "finance"
+  }
+]
